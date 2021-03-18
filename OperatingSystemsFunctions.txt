@@ -1,0 +1,1 @@
+One operating system function is the power control and its options. A device can be turned on using the power button, and there are various power modes. Besides just being on or off, a device can enter into sleep mode (where it closes non-essential functions and preserves power) or hibernate mode (where it saves current work/open software on the device and turns off power).
